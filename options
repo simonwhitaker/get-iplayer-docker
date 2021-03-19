@@ -1,1 +1,4 @@
+# See https://github.com/get-iplayer/get_iplayer/wiki/prefs for options
+
+# Direct output to /output
 output /output
