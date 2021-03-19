@@ -1,3 +1,9 @@
+# About
+
+This repo contains a Dockerfile that builds an image with
+[get_iplayer](https://github.com/get-iplayer/get_iplayer) installed and ready to
+use.
+
 # Build
 
 ```
